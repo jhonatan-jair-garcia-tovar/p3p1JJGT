@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">p3p1JJGT</string>
+    <string name="ingNombre">nombre del contacto</string>
+    <string name="ingEdad">edad del contacto</string>
+    <string name="nombre">nombre</string>
+    <string name="edad">edad</string>
+    <string name="correo">correo</string>
+    <string name="curp">curp</string>
+    <string name="Json">Json</string>
+</resources>
